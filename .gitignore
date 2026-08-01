@@ -1,0 +1,56 @@
+# ==========================================
+# Python / Jupyter Notebook
+# ==========================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# ==========================================
+# Virtual Environments
+# ==========================================
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# OS Generated Files
+# ==========================================
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+ehthumbs_vista.db
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+desktop.ini
+
+# ==========================================
+# Data & Database Files (Optional)
+# ==========================================
+# Note: Since you are hosting a portfolio project, you likely want to upload 
+# your specific 'customer_ch.db' and 'exported_churn_data.csv' files so recruiters can see them.
+# If you ever add massive, sensitive, or temporary data files in the future, 
+# you can uncomment the lines below to ignore all data files globally.
+
+# *.csv
+# *.db
+# *.sqlite
+# *.sqlite3
+# *.json
